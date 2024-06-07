@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except these files
+!main.py
+!collectData.py
+
+# Allow the .gitignore file itself
+!.gitignore
+
